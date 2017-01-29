@@ -1,0 +1,19 @@
+{
+  "name": "spevack_twins_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlanetEfficacy/spevack_twins_js.git"
+  },
+  "author": "Jesse Spevack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PlanetEfficacy/spevack_twins_js/issues"
+  },
+  "homepage": "https://github.com/PlanetEfficacy/spevack_twins_js#readme"
+}
