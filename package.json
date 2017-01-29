@@ -1,10 +1,11 @@
 {
   "name": "spevack_twins_js",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app for publishing photos",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/PlanetEfficacy/spevack_twins_js/issues"
   },
-  "homepage": "https://github.com/PlanetEfficacy/spevack_twins_js#readme"
+  "homepage": "https://github.com/PlanetEfficacy/spevack_twins_js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
 }
